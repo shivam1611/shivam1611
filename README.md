@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)]
+![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 <h3 align="center">"Passionate Frontend Developer and an Enthusiast 🚀 from India"</h3>
 <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" alt= "coding" align = "right" width = "400"">
